@@ -1,0 +1,2 @@
+# QtProjects
+Misc Qt projects
